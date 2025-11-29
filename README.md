@@ -3,7 +3,13 @@
 A complete full-stack application featuring a secure, scalable backend REST API with JWT authentication, role-based access control, and a modern React frontend for task management.
 
 ---
+## Project Drive Link
 
+Download the project Through The Below link:
+(https://drive.google.com/file/d/1D9Vg85T50awazdFUpbqvuOuR0lpPNplp/view?usp=drive_link)**
+Refer SETUP.md File for Installation Process.
+
+---
 ## 🎯 Table of Contents
 
 - [Features](#-features)
@@ -1345,11 +1351,5 @@ You now have a **production-ready**, **scalable** REST API with:
 
 ---
 
-## 📺 Video Demo
-
-Download the project Through The Below link:
-(https://drive.google.com/file/d/1D9Vg85T50awazdFUpbqvuOuR0lpPNplp/view?usp=drive_link)**
-
----
-
 *Last Updated: November 29, 2025*
+
